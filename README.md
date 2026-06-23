@@ -61,7 +61,7 @@ pip install -r requirements.txt
 - [ ] Implement a more advanced UI using React or Vue.
 
 ## 👤 Author
-**Stina** - *MSc Artificial Intelligence Student*
+**Stina Solomon** - *MSc Artificial Intelligence Student*
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
